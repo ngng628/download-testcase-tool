@@ -37,7 +37,7 @@ src = 'template.cpp'
 
 ## 使い方
 
-### このスクリプトを適切な場所に配置
+### スクリプトを適切な場所に配置
 
 `start.py` と `download.py` を適切な場所に配置してください。
 
@@ -80,7 +80,7 @@ src = 'template.cpp'
 
 （Pythonで解いた場合は `oj t -c "python3 main.py"` などとしましょう）
 
-### `oj s main.cpp` で提出
+### 提出
 
 `oj s main.cpp` で提出も自動で行えます。
 
